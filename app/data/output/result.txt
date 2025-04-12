@@ -1,0 +1,3 @@
+✅ Claim by John Doe approved automatically.
+❌ Claim by Jane Smith requires manual review.
+✅ Claim by Ravi Kumar approved automatically.
