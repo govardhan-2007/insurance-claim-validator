@@ -1,0 +1,4 @@
+patient_name,treatment,hospital,claim_amount,policy_id
+John Doe,Appendectomy,XYZ Hospital,50000,ABC123
+Jane Smith,Cataract Surgery,ABC Medical Center,120000,XYZ456
+Ravi Kumar,Fracture Fixation,GH Hospital,80000,PQR789
