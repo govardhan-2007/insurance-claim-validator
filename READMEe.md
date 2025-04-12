@@ -2,7 +2,6 @@
 
 ## 🚀 Project Overview
 **TRAIL BLAZERS** presents an AI-powered solution to streamline healthcare insurance claim validation. Our system uses a fine-tuned Large Language Model (LLM) to analyze treatment records, verify them against policy terms, and flag fraudulent or duplicate claims in real time.
-
 This project was developed for a hackathon under the **Healthcare** theme.
 
 ---
